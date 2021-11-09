@@ -1,10 +1,10 @@
 package kodo
 
 import (
+    "github.com/jassue/go-storage/storage"
     "github.com/qiniu/go-sdk/v7/sms/bytes"
     "io"
     "io/ioutil"
-    "storage/storage"
     "testing"
 )
 

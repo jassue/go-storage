@@ -2,11 +2,11 @@ package kodo
 
 import (
     "context"
+    "github.com/jassue/go-storage/storage"
     "github.com/qiniu/go-sdk/v7/auth/qbox"
     qiniuStorage "github.com/qiniu/go-sdk/v7/storage"
     "io"
     "net/http"
-    "storage/storage"
     "sync"
     "time"
 )

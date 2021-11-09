@@ -1,4 +1,4 @@
-module storage
+module github.com/jassue/go-storage
 
 go 1.17
 

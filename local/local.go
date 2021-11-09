@@ -1,10 +1,10 @@
 package local
 
 import (
+    "github.com/jassue/go-storage/storage"
     "io"
     "os"
     "path/filepath"
-    "storage/storage"
     "sync"
 )
 

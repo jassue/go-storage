@@ -2,8 +2,8 @@ package oss
 
 import (
     alioss "github.com/aliyun/aliyun-oss-go-sdk/oss"
+    "github.com/jassue/go-storage/storage"
     "io"
-    "storage/storage"
     "strconv"
     "sync"
 )
